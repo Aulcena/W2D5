@@ -35,3 +35,4 @@ class Flight
         board_passenger(pasenger)
     end
 end
+

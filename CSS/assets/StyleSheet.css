@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rebeccapurple;
+    margin: 10px;
+  }
+  h1 {
+    font-size: 38px;
+  }
+  h2 {
+    font-size: 32px;
+  }
+  .ingredients-list {
+    
+    background-color: rgb(212, 195, 197);
+    padding: 20px;
+    width: 700px;
+  }
+  ol {
+    list-style-type: circle;
+    padding: 50px;
+    background-color: rgb(60, 79, 186);
+    margin: 20px;
+  }
+  header > img {
+    width: 100px;
+  }
+  ul li a {
+    color: rgba(95, 13, 44, 0.177);
+    text-decoration: none;
+  }
+  figure img {
+    margin-left: 200px;
+  }
+ 
+ 
